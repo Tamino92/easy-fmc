@@ -1,0 +1,23 @@
+body.start {
+    background-color: white ;
+}
+
+body.run {
+    background-color: black ;
+}
+
+svg.widget { 
+    position:fixed; top:0; left:0; height:100%; width:100% 
+}
+
+.row {
+    padding-top: 80px;
+}
+
+.prod {
+    stroke-opacity : 0 ;
+}
+
+.bebug {
+    stroke-opacity : 100 ;
+}
